@@ -5,7 +5,7 @@
 
 
 # Connect with me:
-[<img src="linkedin.svg" width="5" height="5">](https://www.linkedin.com/in/nagihan-arabaci/)
+[<img src="linkedin.svg" width="10" height="10">](https://www.linkedin.com/in/nagihan-arabaci/)
  
 
   
