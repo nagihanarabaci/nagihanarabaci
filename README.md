@@ -5,7 +5,7 @@
 
 
 # Connect with me:
-[!<img src="linkedin.svg" width="50" height="50">](https://www.linkedin.com/in/nagihan-arabaci/)
+[<img src="linkedin.svg" width="10" height="10">](https://www.linkedin.com/in/nagihan-arabaci/)
  
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nagihan-arabaci/)
 
