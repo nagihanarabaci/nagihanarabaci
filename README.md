@@ -10,7 +10,7 @@
 
   
 # Languages and Tools:
-[<img src="kotlin.svg" width="50" height="50">](https://jupyter.org/try)
+(Kotlin)[<img src="kotlin.svg" width="50" height="50">](https://jupyter.org/try)
 
 [<img src="androidstudio.svg" width="50" height="50">](kotlin)
 [<img src="django.svg" width="50" height="50">](python)
