@@ -5,15 +5,18 @@
 
 
 # Connect with me:
-[<img src="linkedin.svg" width="10" height="10">](https://www.linkedin.com/in/nagihan-arabaci/)
+[<img src="linkedin.svg" width="50" height="50">](https://www.linkedin.com/in/nagihan-arabaci/)
  
 
   
 # Languages and Tools:
-[<img src="linkedin.svg" width="20" height="20">](https://jupyter.org/try))
-[<img src="linkedin.svg" width="30" height="30">](kotlin)
-[<img src="linkedin.svg" width="40" height="40">](python)
-[<img src="linkedin.svg" width="50" height="50">](pycharm)
+[<img src="kotlin.svg" width="50" height="50">](https://jupyter.org/try))
+[<img src="androidstudio.svg" width="50" height="50">](kotlin)
+[<img src="django.svg" width="50" height="50">](python)
+[<img src="flask.svg" width="50" height="50">](pycharm)
+[<img src="jupyter.svg" width="50" height="50">](pycharm)
+[<img src="pycharm.svg" width="50" height="50">](pycharm)
+[<img src="python.svg" width="50" height="50">](pycharm)
 
-[![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
 
