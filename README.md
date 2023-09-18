@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Android Development with Kotlin
 
 
- # Connect with me:
+# Connect with me:
  
   
 # Languages and Tools
