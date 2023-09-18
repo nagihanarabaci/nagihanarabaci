@@ -10,7 +10,8 @@
 
   
 # Languages and Tools:
-[<img src="kotlin.svg" width="50" height="50">](https://jupyter.org/try))
+[<img src="kotlin.svg" width="50" height="50">](https://jupyter.org/try)
+
 [<img src="androidstudio.svg" width="50" height="50">](kotlin)
 [<img src="django.svg" width="50" height="50">](python)
 [<img src="flask.svg" width="50" height="50">](pycharm)
